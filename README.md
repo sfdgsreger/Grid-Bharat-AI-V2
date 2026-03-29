@@ -707,12 +707,6 @@ curl http://localhost:8000/health
 
 ---
 
-## 📄 License
-
-MIT License - see LICENSE file for details
-
----
-
 ## 🙏 Acknowledgments
 
 - **Pathway** - Stream processing framework
@@ -720,14 +714,6 @@ MIT License - see LICENSE file for details
 - **React** - UI library
 - **OpenAI** - LLM and embeddings
 - **ChromaDB** - Vector database
-
----
-
-## 📞 Support
-
-- **Documentation**: See `/docs` folder
-- **Issues**: GitHub Issues
-- **Email**: support@bharat-grid-ai.com
 
 ---
 
